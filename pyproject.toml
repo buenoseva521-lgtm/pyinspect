@@ -8,6 +8,7 @@ version = "0.2.1"
 description = "Understand Python code without reading every line"
 readme = "README.md"
 requires-python = ">=3.10"
+dependencies = ["tomli>=2; python_version < '3.11'"]
 authors = [{name = "PyInspect Contributors"}]
 license = {text = "MIT"}
 classifiers = ["Programming Language :: Python :: 3", "Topic :: Software Development :: Libraries"]
