@@ -11,3 +11,5 @@ dist/
 .pyinspect-report.html
 .pyinspect-cache/
 *.log
+
+.pyinspect-cache.json
