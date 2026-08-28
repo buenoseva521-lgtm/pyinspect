@@ -128,7 +128,7 @@ Abra uma [issue no GitHub](https://github.com/buenoseva521-lgtm/pyinspect/issues
 
 ## Links
 
-- [Documentação web oficial](https://buenoseva521-lgtm.github.io/pyinspect/)
+- [Documentação web oficial](https://pyinspect-hthecrbw.manus.space/)
 - [Código-fonte e issues no GitHub](https://github.com/buenoseva521-lgtm/pyinspect)
 - [Pacote `pyinspect-code` no PyPI](https://pypi.org/project/pyinspect-code/)
 
