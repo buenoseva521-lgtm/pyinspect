@@ -13,6 +13,13 @@ authors = [{name = "PyInspect Contributors"}]
 license = {text = "MIT"}
 classifiers = ["Programming Language :: Python :: 3", "Topic :: Software Development :: Libraries"]
 
+[project.urls]
+Homepage = "https://buenoseva521-lgtm.github.io/pyinspect/"
+Documentation = "https://buenoseva521-lgtm.github.io/pyinspect/"
+Repository = "https://github.com/buenoseva521-lgtm/pyinspect"
+Issues = "https://github.com/buenoseva521-lgtm/pyinspect/issues"
+PyPI = "https://pypi.org/project/pyinspect-code/"
+
 [project.scripts]
 pyinspect = "pyinspect.cli:main"
 
